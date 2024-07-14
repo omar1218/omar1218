@@ -6,9 +6,7 @@
   - [Creating a Live Honeynet in Azure](https://github.com/omar1218/Azure-SOC/blob/main/README.md)
 - <b>Full Stack Web Apps (React, NodeJS, AngularJS)</b>
   - [Fiable ecommerce Web App](https://github.com/omar1218/fiable-ecommerce)
-  - [Fiable ecommerce Web App](https://github.com/omar1218/fiable-ecommerce)
-  - [Fiable ecommerce Web App](https://github.com/omar1218/fiable-ecommerce)
-  - [Fiable ecommerce Web App](https://github.com/omar1218/fiable-ecommerce)
+
 
 - <b>Some Python Projects</b>
   - [Interest Calculator in Python](https://github.com//omar1218/Interest-calculator-in-python)
