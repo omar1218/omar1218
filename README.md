@@ -10,13 +10,11 @@
 
 - <b>Some Python Projects</b>
   - [Interest Calculator in Python](https://github.com//omar1218/Interest-calculator-in-python)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+
 
 - <b>Some C++ Projects</b>
   - [Improved Mandelbrot program](https://github.com/omar1218/improved-mandelbrot-program)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+
 
 
 <h2> 🤳 Connect with me:</h2>
