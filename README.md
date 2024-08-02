@@ -4,19 +4,23 @@
 
 - <b>Azure/Cloud SOC Project</b>
   - [Creating a Live Honeynet in Azure](https://github.com/omar1218/Azure-SOC/blob/main/README.md)
-- <b>Full Stack Web Apps (React, NodeJS, AngularJS)</b>
-  - [Fiable ecommerce Web App](https://github.com/omar1218/fiable-ecommerce)
 
+- <b>OpenVAS Secured and Supported by HOSSTED Project</b>
+  - [OpenVAS Secured and Supported by HOSSTED Project](https://github.com/omar1218/improved-mandelbrot-program)
+
+- <b>Basic Home Lab Running Active Directory </b>
+  - [OpenVAS Secured and Supported by HOSSTED Project](https://github.com/omar1218/improved-mandelbrot-program)
 
 - <b>Some Python Projects</b>
   - [Interest Calculator in Python](https://github.com//omar1218/Interest-calculator-in-python)
 
+- <b>Full Stack Web Apps (React, NodeJS, AngularJS)</b>
+  - [Fiable ecommerce Web App](https://github.com/omar1218/fiable-ecommerce)
 
 - <b>Some C++ Projects</b>
   - [Improved Mandelbrot program](https://github.com/omar1218/improved-mandelbrot-program)
 
-- <b>OpenVAS Secured and Supported by HOSSTED Project</b>
-  - [OpenVAS Secured and Supported by HOSSTED Project](https://github.com/omar1218/improved-mandelbrot-program)
+
 
 
 <h2> 🤳 Connect with me:</h2>
