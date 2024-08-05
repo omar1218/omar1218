@@ -6,7 +6,7 @@
   - [Creating a Live Honeynet in Azure](https://github.com/omar1218/Azure-SOC/blob/main/README.md)
 
 - <b>OpenVAS Secured and Supported by HOSSTED Project</b>
-  - [OpenVAS Secured and Supported by HOSSTED Project](https://github.com/omar1218/improved-mandelbrot-program)
+  - [OpenVAS Secured and Supported by HOSSTED Project](https://github.com/omar1218/OpenVAS)
 
 - <b>Basic Home Lab Running Active Directory </b>
   - [OpenVAS Secured and Supported by HOSSTED Project](https://github.com/omar1218/improved-mandelbrot-program)
