@@ -8,9 +8,6 @@
 - <b>OpenVAS Secured and Supported by HOSSTED Project</b>
   - [OpenVAS Secured and Supported by HOSSTED Project](https://github.com/omar1218/OpenVAS)
 
-- <b>Basic Home Lab Running Active Directory </b>
-  - [OpenVAS Secured and Supported by HOSSTED Project](https://github.com/omar1218/improved-mandelbrot-program)
-
 - <b>Some Python Projects</b>
   - [Interest Calculator in Python](https://github.com//omar1218/Interest-calculator-in-python)
 
