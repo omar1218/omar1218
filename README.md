@@ -1,6 +1,6 @@
 <h1>Hi, I'm Omar! <br/><a href="https://github.com/omar1218">Programmer</a>, <a href="https://www.linkedin.com/in/oothman92/">Aspiring Cybersecurity Analyst</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>Cybersecurity Projects:</h2>
 
 - <b>Azure/Cloud SOC Project</b>
   - [Creating a Live Honeynet in Azure](https://github.com/omar1218/Azure-SOC/blob/main/README.md)
@@ -20,7 +20,7 @@
 
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2>Connect with me:</h2>
 
 
 [<img align="left" alt="OmarOthman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
