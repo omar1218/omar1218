@@ -4,6 +4,9 @@
 
 - <b>Azure/Cloud SOC Project</b>
   - [Creating a Live Honeynet in Azure](https://github.com/omar1218/Azure-SOC/blob/main/README.md)
+    
+- <b>Home IT Labs</b>
+  - [Active Directory Home Lab/Powershell scripts to add dummy users](https://github.com/omar1218/Azure-SOC/blob/main/README.md)
 
 - <b>OpenVAS Secured and Supported by HOSSTED Project</b>
   - [OpenVAS Secured and Supported by HOSSTED Project](https://github.com/omar1218/OpenVAS)
