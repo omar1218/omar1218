@@ -14,6 +14,8 @@
 - <b>Google Cybersecurity Certificate Portfolio</b>
   - [Google Cybersecurity Portfolio](https://github.com/omar1218/Google-Cybersecurity-Portfolio)
 
+<h2>Other Technical Projects:</h2>
+
 - <b>Some Python Projects</b>
   - [Interest Calculator in Python](https://github.com/omar1218/Interest-Calculator-In-Python/tree/main)
 
