@@ -12,7 +12,7 @@
   - [OpenVAS Secured and Supported by HOSSTED Project](https://github.com/omar1218/OpenVAS)
 
 - <b>Some Python Projects</b>
-  - [Interest Calculator in Python](https://github.com//omar1218/Interest-calculator-in-python)
+  - [Interest Calculator in Python](https://github.com/omar1218/Interest-Calculator-In-Python/tree/main)
 
 - <b>Full Stack Web Apps (React, NodeJS, AngularJS)</b>
   - [Fiable ecommerce Web App](https://github.com/omar1218/fiable-ecommerce)
