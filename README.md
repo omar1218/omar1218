@@ -19,6 +19,7 @@
 
 - <b>Some C++ Projects</b>
   - [Improved Mandelbrot program](https://github.com/omar1218/improved-mandelbrot-program)
+  - [Discount Sale](https://github.com/omar1218/Discount-sale)
 
 
 
