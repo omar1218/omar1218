@@ -11,6 +11,9 @@
 - <b>OpenVAS Secured and Supported by HOSSTED Project</b>
   - [OpenVAS Secured and Supported by HOSSTED Project](https://github.com/omar1218/OpenVAS)
 
+- <b>Google Cybersecurity Certificate Portfolio</b>
+  - [Google Cybersecurity Portfolio](https://github.com/omar1218/Google-Cybersecurity-Portfolio)
+
 - <b>Some Python Projects</b>
   - [Interest Calculator in Python](https://github.com/omar1218/Interest-Calculator-In-Python/tree/main)
 
